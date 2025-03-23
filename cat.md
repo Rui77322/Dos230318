@@ -6,4 +6,6 @@ There are many different types of cats.
 
 Do you like cats?
 
+My neighbour has a very nice cat whose name is didi.
+
 
